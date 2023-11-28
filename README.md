@@ -4,6 +4,7 @@ This repository contains a Connect Four game built using Blazor WebAssembly. Con
 ## Features
 #### Two Player Mode: 
 The game supports two players playing on the same device, taking turns to make their move.
+![](https://github.com/jashnatfinthrive/Connect4/blob/master/Playersturns.gif)
 #### Game State Management: 
 The game state is managed effectively allowing for a smooth gameplay experience.
 #### Interactive UI: 
